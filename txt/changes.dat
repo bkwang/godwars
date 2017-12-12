@@ -1,0 +1,81 @@
+16
+Added my paged changes code based on Xkilla's.~
+Chrono~
+Apr 07, 2006~
+1144387702
+
+Fixed bug in score, showing wrong values for Hit Points.~
+Chrono~
+Apr 07, 2006~
+1144387734
+
+Fixed a bug in copyover, not save level 1 characters and crashing the mud.~
+Chrono~
+Apr 07, 2006~
+1144387789
+
+Fixed where update_char was giving exp based on beast.~
+Chrono~
+Apr 07, 2006~
+1144387957
+
+Added Jobo's CCenter to change mob exp on the fly.~
+Chrono~
+Apr 07, 2006~
+1144387979
+
+Changed how train handles training hp/mana/move/primal/stats~
+Chrono~
+Apr 07, 2006~
+1144388003
+
+Added some color to random things really really needing it.~
+Chrono~
+Apr 07, 2006~
+1144388023
+
+Fixed a bug in db.c (- Can't remember which one now -)~
+Chrono~
+Apr 07, 2006~
+1144388062
+
+Changed the gain_exp to handle the ccenter values.~
+Chrono~
+Apr 07, 2006~
+1144388096
+
+Changed where the mud loads its data from the txt directory for items.~
+Chrono~
+Apr 07, 2006~
+1144388135
+
+Changes code was being buggy had to fix a delete and addchange bug.~
+Chrono~
+Apr 07, 2006~
+1144388163
+
+statcap on mana/move/hp is now 50k + 1000 * ch->race~
+Chrono~
+Apr 07, 2006~
+1144388216
+
+Redone the Makefile to organize compiling of code.~
+Chrono~
+Apr 07, 2006~
+1144388313
+
+Added the Automapper, use config +/-map or type map.~
+Chrono~
+Apr 07, 2006~
+1144388346
+
+Fixed bug with automapper showing room descriptions twice.~
+Chrono~
+Apr 07, 2006~
+1144388369
+
+Code compiles with no errors.~
+Chrono~
+Apr 07, 2006~
+1144388411
+

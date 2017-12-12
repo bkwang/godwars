@@ -1,0 +1,26 @@
+GodWars 2000 Release 1.0
+Thursday 30 March 2000
+
+Kai   kai@grex.org
+
+---> Copyright and License Terms
+
+GodWars 2000 is based off of the original Diku Mud and the Merc Diku
+Mud and is subject to their copyright and license agreements (license.doc
+and license.txt, respectively). Additions and modifications to the code
+are copyright 2000 by Kai.
+
+In order for you to run a MUD using our codebase you must adhere to Diku
+Mud's license agreement, Diku Merc Mud's license agreement, KaVir's
+GodWars license agreement, and our own license agreement.
+
+Our license agreement terms are:
+* You must e-mail Kai at kai@grex.org telling him that you are running a
+  version of his code.
+* You must include the 'HELP GW2K' file.
+* You must include this in the login sequence...
+                    ** Based on GodWars 2000 by Kai **
+
+
+Please follow the license agreement terms and no harm will come to you or
+your family. :-P

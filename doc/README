@@ -1,0 +1,76 @@
+GodWars 2000 Release 1.0
+Thursday 30 March 2000
+
+---> Introduction
+
+Welcome and thank you for choosing the GodWars 2000 codebase, a highly
+modified version of KaVir's Godwars Deluxe code. May hours of work have
+been put into this code so please respect our work and do not infringe
+upon any copyrights.
+
+
+---> Copyright and License
+
+GodWars 2000 is based off of the original Diku Mud and the Merc Diku
+Mud and is subject to their copyright and license agreements (license.doc
+and license.txt, respectively). Additions and modifications to the code
+are copyright 2000 by Kai.
+
+In order for you to run a MUD using our codebase you must adhere to Diku
+Mud's license agreement, Diku Merc Mud's license agreement, KaVir's
+GodWars license agreement, and our own license agreement.
+
+
+---> Contents of the Release
+
+area            Area files.
+doc             Documentation.
+log             Log files    (initially empty).
+player          Player files (initially empty).
+src             Source files.
+
+
+
+---> Installation
+
+(1) Uncompress the release.
+
+        gunzip gw2k.tar.gz
+        tar xvf gw2k.tar
+
+(2) Go to the 'src' directory.
+        cd godwars/src
+
+(3) Run the Makefile.
+
+        make
+
+    This is should take between 5 and 15 minutes depending on the speed of
+    your server. If you run across any compilation problems make changes
+    to the code accordingly. This code is provided as is and without
+    support.
+
+(4) Run the MUD Server.
+
+        cd ../area
+        startup &
+        telnet localhost 4000
+
+(5) To make your first immortal character, just start as a mortal
+    character, kill 5 mobs then save, and then change the level and
+    trust fields of your player file to 12.
+
+(6) Read 'license.doc', 'license.txt', and 'license.gw2k'. Be sure to
+    e-mail Kai letting him know you are using his code.
+
+
+---> What's Next?
+
+The GodWars 2000 code is no longed being developed or worked on by Kai.
+This may change in the future, but it is not known as of now. If you have
+any questions or comments about the code please e-mail Kai at 
+kai@grex.org
+
+Thanks and Have Fun,
+Kai.
+GodWars 2000  03/30/00

@@ -1,0 +1,29 @@
+GodWars 2006 Release 2.0
+Friday 7 April 2006
+
+Chrono (chrono@grevin.sytes.net) (pfchrono@gmail.com
+
+---> Copyright and License Terms
+
+GodWars 2006 is based off of godwars 2000 by Kai, and the original Diku 
+Mud and the Merc Diku Mud and is subject to their copyright and license
+agreements (license.doc and license.txt, respectively). Additions and 
+modifications to the code are copyright 2000 by Kai. Any 2006 changes
+to the code are copyright 2006 by Chrono.
+
+In order for you to run a MUD using this codebase you must adhere to Diku
+Mud's license agreement, Diku Merc Mud's license agreement, KaVir's
+GodWars license agreement, Kai's 2000 license agreement, and the 2006
+license agreement.
+
+Our license agreement terms are:
+* Email me with the provided emails at top of license.
+* You must include the 'HELP GW2K6' file.
+* You must include this in the login sequence...
+                    ----- Based on GodWars 2006 by Chrono -----
+
+
+All I really want is the credit for what I have done with the 2000 code.
+Not a hard thing to do being most people won't give open source out these days.
+
+	-- Chrono --
