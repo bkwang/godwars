@@ -3280,7 +3280,6 @@ void do_kill( CHAR_DATA *ch, char *argument )
     if (IS_AFFECTED(ch, AFF_FEAR))
     {
 	send_to_char( "No way, you're too scared!\n\r", ch );
-	return;
     }
 
     if ( is_safe( ch, victim ) )
@@ -3295,7 +3294,6 @@ void do_kill( CHAR_DATA *ch, char *argument )
     if ( ch->position == POS_FIGHTING )
     {
 	send_to_char( "You do the best you can!\n\r", ch );
-	return;
     }
 
 /* Autostancing - Kai */
