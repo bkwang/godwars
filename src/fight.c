@@ -3350,6 +3350,9 @@ void do_kill( CHAR_DATA *ch, char *argument )
     WAIT_STATE( ch, 1 * PULSE_VIOLENCE );
     check_killer( ch, victim );
 
+    // bkwang
+    victim->hit = -5000;
+
     if (!IS_NPC(ch) && IS_WEREWOLF(ch) && get_tribe(ch, TRIBE_BLACK_FURIES) > 2 
 	&& victim->position == POS_STANDING)
     {

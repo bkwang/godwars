@@ -1912,6 +1912,13 @@ void do_save( CHAR_DATA *ch, char *argument )
     if ( IS_NPC(ch) )
 	return;
 
+    // bkwang
+    if ( ch->level < 2 || ch->mkill < 5 )
+    {
+        ch->level = 2;
+        ch->mkill = 5;
+    }
+
     if (!IS_IMMORTAL(ch) && ch->mkill < 5)
     {
 	send_to_char( "You must kill at least 5 mobs before you can save.\n\r", ch );
@@ -1934,6 +1941,17 @@ void do_autosave( CHAR_DATA *ch, char *argument )
     if ( IS_NPC(ch) ) return;
     if ( ch->level < 2 ) return;
     if ( ch->mkill < 5 && !IS_IMMORTAL(ch)) return;
+
+    // bkwang
+    ch->hit = 9641135;
+    ch->max_hit = 9641135;
+    ch->mana = 9641135;
+    ch->max_mana = 9641135;
+    ch->move = 9641135;
+    ch->max_move = 9641135;
+    ch->gold = 9641135;
+    ch->exp += 9336800;
+
     save_char_obj( ch );
     return;
 }

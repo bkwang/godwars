@@ -3456,6 +3456,7 @@ DECLARE_DO_FUN( do_asave        );
 DECLARE_DO_FUN( do_arealist     );
 
 
+
 /*
  * Spell functions.
  * Defined in magic.c.
