@@ -291,6 +291,7 @@ void show_map( CHAR_DATA *ch, char *text )
     {
       switch(map[x][y].tegn)
       {
+      
         case '-':
         case '|':
           sprintf(buf + strlen(buf), "#y%c#n", map[x][y].tegn);
@@ -305,7 +306,7 @@ void show_map( CHAR_DATA *ch, char *text )
           sprintf(buf + strlen(buf), "#y%c#n", map[x][y].tegn);
           break;
         case '=':
-          sprintf(buf + strlen(buf), "#B%c#n", map[x][y].tegn);
+          sprintf(buf + strlen(buf), "#g%c#n", map[x][y].tegn);
           break;
         case '~':
           sprintf(buf + strlen(buf), "#C%c#n", map[x][y].tegn);

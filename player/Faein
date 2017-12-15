@@ -1,0 +1,3670 @@
+#PLAYER
+Name         Faein~
+ShortDescr   ~
+LongDescr    ~
+Description  ~
+Lord         ~
+Clan         ~
+Side         ~
+Morph        ~
+Createtime   Tue Dec 12 15:34:39 2017~
+Lasttime     Fri Dec 15 15:58:51 2017~
+Lasthost     192.168.146.1~
+Poweraction  ~
+Powertype    ~
+Prompt       ~
+Cprompt      ~
+Sex          1
+Race         0
+Class        0
+Immune       8326143
+Polyaff      0
+Itemaffect   0
+Vampaff      0
+Vamppass     -1
+Form         0
+Body         32767
+Beast        20
+Truebeast    20
+Vampgen      0
+Spectype     0
+Specpower    0
+Home         3001
+Level        12
+Security     9
+Trust        12
+Paradox      0 0 0
+Played       151100
+Room         8304
+PkPdMkMd     0 0 253 0
+Weapons      81 0 0 102 0 0 0 0 0 0 0 0 0
+Spells       22 58 18 5 4
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Locationhp   64 0 0 0 0 0 0
+HpManaMove   9641135 9641135 9641135 9641135 9641135 9641135
+Agg          0
+Gold         9641135
+Exp          1266907997
+Act          67110000
+Extra        12
+More         0
+AffectedBy   0
+Position     9
+Practice     2702
+SavingThrow  -4
+Alignment    -1000
+Hitroll      8
+Damroll      8
+Armor        -70
+Wimpy        0
+Deaf         0
+Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
+Password     Fac1z/axk81/c~
+Bamfin       ~
+Bamfout      ~
+Title         the mortal~
+Conception   ~
+Parents      ~
+Cparents     ~
+Marriage     ~
+Email        ~
+Conding      ~
+Love         ~
+Coterie      ~
+CotTime      None~
+CotClans     All~
+CotSides     All~
+Stancename   ~
+Stancelist   ~
+Stancework   ~
+Leader       ~
+DenyDate     0
+Stancemove   0 0 0 0 0
+AttrPerm     25 25 25 25 25
+AttrMod      25 25 25 25 25
+Quest        0
+Wolf         0
+Rank         0
+Regenerate   0
+Demonic      0
+Atm          0
+Necromancy   0
+Obeah        0
+Darkness     0
+Temporis     0
+Silence      0
+Bodymods     0
+Reina        0
+Bpoints      0
+Dpoints      0
+Gpoints      0
+Rpoints      0
+Wpoints      0
+Spirit       0
+Conjure      0
+Celerity     0
+Firstaid     0
+Repair       0
+Teach        0
+Learn        0
+Notes        0
+Evileye      0
+Gnosis       50 50
+Absorb       0 0 0 0 0 0
+Qstats       0 0 0 0 0
+Exercise     0 0 0 0
+Language     0 0
+Stage        0 0 0
+Status       0 0 0
+Wolfform     1 1
+Score        21864633 219570 0 51 0 0
+Runes        0 0 0 0
+Disc         0 0 0 0 0 0 0 0 0 0 0
+Rituals      0 0 0 0 0 0 0 0 0 0
+Clandisc     0 0 0
+Diableries   0 0
+Breed        0 0 0
+Auspice      0 0 0 0 0
+Tribes       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Powers       0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+PowersMod    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+PowersSet    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+PowersWear   0
+Genes        0 0 0 0 0 0 0 0 0 0
+CotMin       0 0 0 0 0 0 0 0 0 0 0 0
+Blood        100 100 1
+Willpower    50 50
+Resist       0 0 0 0 0
+Power        0 0
+FakeCon      0 0 0 0 0 0 0 0
+FakeTwo      0 0 0 0 0 0 0 0
+Majesty      0
+Condition    0 39 39
+Exhaustion   0
+TempClass    0
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect hidden'
+Skill        100 'dispel magic'
+Skill        100 'enchant weapon'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'fly'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'infravision'
+Skill        100 'locate object'
+Skill        100 'pass door'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'stone skin'
+Skill        100 'teleport'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'guardian'
+Skill        100 'soulblade'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'quest'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'fastdraw'
+Skill        100 'track'
+Skill        100 'improve'
+Skill        100 'first aid'
+Skill        100 'repair'
+End
+
+#OBJECT
+Nest         0
+Name         black shimmering bracer~
+ShortDescr   a black shimmering bracer~
+Description  A black shimmering bracer is lying here.~
+Vnum         30339
+ExtraFlags   2562
+WearFlags    4097
+WearLoc      15
+ItemType     9
+Weight       3
+Condition    75
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         22
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         black shimmering bracer~
+ShortDescr   a black shimmering bracer~
+Description  A black shimmering bracer is lying here.~
+Vnum         30339
+ExtraFlags   2562
+WearFlags    4097
+WearLoc      14
+ItemType     9
+Weight       3
+Condition    79
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         40
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         black shimmering collar~
+ShortDescr   a black shimmering collar~
+Description  A black shimmering collar is lying here.~
+Vnum         30343
+ExtraFlags   2562
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         11
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         black shimmering collar~
+ShortDescr   a black shimmering collar~
+Description  A black shimmering collar is lying here.~
+Vnum         30343
+ExtraFlags   2562
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         18
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         shield small metal~
+ShortDescr   a small metal shield~
+Description  A small metal shield is lying on the ground.~
+Vnum         3097
+ExtraFlags   0
+WearFlags    513
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1331
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sleeves scale mail~
+ShortDescr   a pair of scale mail sleeves~
+Description  A pair of scale mail sleeves is lying on the ground.~
+Vnum         3077
+ExtraFlags   0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       8
+Condition    75
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1320
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves reinforced~
+ShortDescr   a pair of reinforced gloves~
+Description  A pair of reinforced gloves is lying on the ground.~
+Vnum         3076
+ExtraFlags   0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       2
+Condition    75
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1331
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots reinforced~
+ShortDescr   a pair of reinforced boots~
+Description  A pair of reinforced boots lies here.~
+Vnum         3075
+ExtraFlags   0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       6
+Condition    75
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1521
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         coif scale mail~
+ShortDescr   a scale mail coif~
+Description  A scale mail coif is lying on the ground.~
+Vnum         3073
+ExtraFlags   0
+WearFlags    17
+WearLoc      6
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         225
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         jerkin scale mail~
+ShortDescr   a scale mail jerkin~
+Description  A scale mail jerkin is lying on the ground.~
+Vnum         3072
+ExtraFlags   0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         200
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         skin water buffalo~
+ShortDescr   a buffalo water skin~
+Description  A bloated dead buffalo is on the floor.~
+Vnum         3138
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       100 100 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         19872
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ball light~
+ShortDescr   a bright ball of light~
+Description  A bright ball of light shimmers in the air.~
+Vnum         21
+ExtraFlags   0
+WearFlags    1
+WearLoc      16
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         12654
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2550
+Values       57030 7 10 1
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         792
+Values       57030 5 10 1
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         7569
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         19360
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3078
+Values       0 2 3 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         90
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves~
+ShortDescr   a pair of standard issue gloves~
+Description  You see a pair of standard issue gloves here.~
+Vnum         3359
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         22560
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1716
+Values       0 8 16 3
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         14060
+Values       0 4 5 3
+End
+
+#OBJECT
+Nest         0
+Name         bottle ale~
+ShortDescr   a bottle of ale~
+Description  A dark bottle of ale has been left here.~
+Vnum         3002
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       8 8 3 0
+End
+
+#OBJECT
+Nest         0
+Name         bottle local~
+ShortDescr   a bottle of local specialty~
+Description  A dark bottle has been left here.~
+Vnum         3004
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       8 8 8 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         704
+Values       0 5 6 3
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2160
+Values       57030 1 2 1
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         5625
+Values       0 3 6 3
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2250
+Values       57030 6 11 1
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         11664
+Values       57030 3 6 1
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         1960
+Values       57030 7 8 1
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         17640
+Values       57030 4 7 1
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         12312
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        45
+Timer        0
+Cost         20700
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         420
+Values       0 9 12 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         10230
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         bracer~
+ShortDescr   a standard issue bracer~
+Description  You see a standard issue bracer here.~
+Vnum         3363
+ExtraFlags   0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7056
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         4158
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         13475
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6875
+Values       0 7 8 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2156
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak~
+ShortDescr   a standard issue cloak~
+Description  You see a standard issue cloak here.~
+Vnum         3355
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         8928
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         120
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         19881
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         18920
+Values       0 3 4 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        20
+Timer        0
+Cost         4000
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         2890
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         2890
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         810
+Values       0 7 12 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         14652
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2992
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         120
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         26950
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         17220
+Values       0 3 5 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         54
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         10404
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4620
+Values       57030 5 9 1
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         3553
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         7308
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         11264
+Values       0 8 16 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         15990
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         17160
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         567
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         10404
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        31
+Timer        0
+Cost         9600
+Values       0 10 15 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6250
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1820
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         108
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2640
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3600
+Values       0 4 6 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8624
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         25000
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1100
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7722
+Values       0 3 6 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         20
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves~
+ShortDescr   a pair of standard issue gloves~
+Description  You see a pair of standard issue gloves here.~
+Vnum         3359
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         20328
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         900
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         11253
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2156
+Values       0 8 9 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4200
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         bracer~
+ShortDescr   a standard issue bracer~
+Description  You see a standard issue bracer here.~
+Vnum         3363
+ExtraFlags   0
+WearFlags    4097
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         20304
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         7436
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6600
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5819
+Values       0 6 12 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1859
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         60
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         18480
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         23276
+Values       0 6 11 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         2601
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cloak~
+ShortDescr   a standard issue cloak~
+Description  You see a standard issue cloak here.~
+Vnum         3355
+ExtraFlags   0
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         6000
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         15600
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         17640
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        16
+Timer        0
+Cost         2816
+Values       0 6 9 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         26411
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         19393
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         1890
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         6318
+Values       0 7 14 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7290
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         9801
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         7308
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1690
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         24500
+Values       0 8 12 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         22080
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         25000
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1210
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         14256
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         300
+Values       0 2 4 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         441
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         axe small~
+ShortDescr   a small axe~
+Description  A small axe has been dropped here.~
+Vnum         103
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         18490
+Values       0 3 6 3
+End
+
+#OBJECT
+Nest         0
+Name         pink potion~
+ShortDescr   a pink potion~
+Description  A pink potion is barely visible on the ground.~
+Vnum         105
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9920
+Values       7 2 19 -1
+Spell 1      'armor'
+Spell 2      'cure blindness'
+End
+
+#OBJECT
+Nest         0
+Name         bunch berries smurfberries~
+ShortDescr   a bunch of smurfberries~
+Description  A bunch of delicious looking smurfberries lie here.~
+Vnum         100
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     26
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        23
+Timer        0
+Cost         5520
+Values       8 -1 -1 10
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         0
+Name         bunch berries smurfberries~
+ShortDescr   a bunch of smurfberries~
+Description  A bunch of delicious looking smurfberries lie here.~
+Vnum         100
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     26
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         16800
+Values       8 -1 -1 10
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         0
+Name         bunch berries smurfberries~
+ShortDescr   a bunch of smurfberries~
+Description  A bunch of delicious looking smurfberries lie here.~
+Vnum         100
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     26
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9207
+Values       8 -1 -1 10
+Spell 3      'change sex'
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         420
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         18060
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6500
+Values       0 8 14 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         7560
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         15884
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         22
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        37
+Timer        0
+Cost         15884
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         729
+Values       0 8 9 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5520
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         8100
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         360
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         4180
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         21296
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        21
+Timer        0
+Cost         4620
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      13
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2310
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        33
+Timer        0
+Cost         10240
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5184
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1100
+Values       0 5 10 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         14440
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      12
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6875
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         11025
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6250
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7840
+Values       0 5 8 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1320
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves~
+ShortDescr   a pair of standard issue gloves~
+Description  You see a pair of standard issue gloves here.~
+Vnum         3359
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         462
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         135
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         108
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1188
+Values       0 6 10 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1210
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves~
+ShortDescr   a pair of standard issue gloves~
+Description  You see a pair of standard issue gloves here.~
+Vnum         3359
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         2002
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         torch~
+ShortDescr   a torch~
+Description  A large torch.~
+Vnum         3030
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       0 0 24 0
+End
+
+#OBJECT
+Nest         0
+Name         lantern~
+ShortDescr   a hooded brass lantern~
+Description  A hooded brass lantern has been left here.~
+Vnum         3031
+ExtraFlags   8192
+WearFlags    16385
+WearLoc      -1
+ItemType     1
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       0 0 100 0
+End
+
+#OBJECT
+Nest         0
+Name         skin water buffalo~
+ShortDescr   a buffalo water skin~
+Description  A bloated dead buffalo is on the floor.~
+Vnum         3138
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       100 100 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         616
+Values       0 6 12 3
+End
+
+#OBJECT
+Nest         0
+Name         potpie pot pie~
+ShortDescr   a big pot pie~
+Description  A big pot pie has been left here.~
+Vnum         3009
+ExtraFlags   8192
+WearFlags    1
+WearLoc      -1
+ItemType     19
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         10
+Values       40 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2464
+Values       0 7 14 3
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        17
+Timer        0
+Cost         3179
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         81
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         7560
+Values       0 3 6 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         14820
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         helmet~
+ShortDescr   a standard issue helmet~
+Description  You see a standard issue helmet here.~
+Vnum         3356
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        41
+Timer        0
+Cost         18040
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         scroll identify~
+ShortDescr   a scroll of identify~
+Description  A scroll has carelessly been left here.~
+Vnum         3040
+ExtraFlags   8256
+WearFlags    1
+WearLoc      -1
+ItemType     2
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         385
+Values       12 44 -1 -1
+Spell 1      'identify'
+End
+
+#OBJECT
+Nest         0
+Name         potion yellow~
+ShortDescr   a yellow potion of see invisible~
+Description  A small yellow potion has carelessly been left here.~
+Vnum         3041
+ExtraFlags   8256
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         88
+Values       12 27 -1 -1
+Spell 1      'detect invis'
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         10710
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         17600
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         250
+Values       0 6 9 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         13320
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8932
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         banner~
+ShortDescr   a war banner~
+Description  A war banner is on the floor here.~
+Vnum         3365
+ExtraFlags   65
+WearFlags    1
+WearLoc      -1
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         22560
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         24010
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword~
+ShortDescr   a standard issue sword~
+Description  You see a standard issue sword here.~
+Vnum         3350
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         14060
+Values       0 2 3 3
+End
+
+#OBJECT
+Nest         0
+Name         vest~
+ShortDescr   a standard issue vest~
+Description  You see a standard issue vest here.~
+Vnum         3353
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         12960
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         8091
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         504
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         90
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2160
+Values       42 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2100
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        39
+Timer        0
+Cost         16302
+Values       44 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        46
+Timer        0
+Cost         22770
+Values       44 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#END

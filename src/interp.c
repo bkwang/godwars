@@ -633,7 +633,7 @@ const	struct	cmd_type	cmd_table	[] =
     { "rset",		do_rset,	POS_DEAD,	 7,  LOG_ALWAYS	},
     { "silence",	do_silence,	POS_DEAD,	 9,  LOG_NORMAL },
     { "sla",		do_sla,		POS_DEAD,	10,  LOG_NORMAL	},
-    { "slay",		do_slay,	POS_DEAD,	0,  LOG_ALWAYS	},
+    { "slay",		do_slay,	POS_DEAD,	10,  LOG_ALWAYS	},
     { "special",	do_special,	POS_DEAD,	10,  LOG_ALWAYS	},
     { "decapitate",	do_decapitate,	POS_STANDING,	 3,  LOG_ALWAYS	},
     { "sset",		do_sset,	POS_DEAD,	10,  LOG_ALWAYS },
@@ -712,7 +712,6 @@ const	struct	cmd_type	cmd_table	[] =
      * Clash with "medit".
      */
     { "meditate",	do_meditate,	POS_MEDITATING,	 0,  LOG_NORMAL	},
-
 
     /*
      * End of list.

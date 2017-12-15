@@ -1513,7 +1513,7 @@ void do_look( CHAR_DATA *ch, char *argument )
 
             if (!IS_NPC(ch) && ch->level > 6)
             {
-              sprintf(buf, "#B%s #0[#R%d#0][#w%s#0][#w%s#0]#n\n\r",
+              sprintf(buf, "#g%s #0[#R%d#0][#w%s#0][#w%s#0]#n\n\r",
               ch->in_room->name,
               ch->in_room->vnum,
               flag_string( sector_flags, ch->in_room->sector_type ),
@@ -1522,7 +1522,7 @@ void do_look( CHAR_DATA *ch, char *argument )
             }
             else
             {
-              sprintf(buf, "#B%s#n\n\r", ch->in_room->name);
+              sprintf(buf, "#g%s#n\n\r", ch->in_room->name);
               send_to_char( buf, ch );
             }
             do_exits( ch, "auto" );

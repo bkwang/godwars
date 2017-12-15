@@ -3265,6 +3265,17 @@ void do_kill( CHAR_DATA *ch, char *argument )
 	return;
     }
 
+    if ( !str_cmp( arg, "all" ) )
+    {
+	CHAR_DATA *rch;
+	
+	for ( rch = ch->in_room->people; rch != NULL; rch = rch->next_in_room )
+	{
+	    if ( ch != rch ) do_kill(ch, rch->name);
+	}
+	    return;
+    }    
+
     if ( ( victim = get_char_room( ch, arg ) ) == NULL )
     {
 	send_to_char( "They aren't here.\n\r", ch );
