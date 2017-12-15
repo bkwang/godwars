@@ -34,9 +34,9 @@ Level        12
 Security     9
 Trust        12
 Paradox      0 0 0
-Played       153832
-Room         8304
-PkPdMkMd     0 0 253 0
+Played       156810
+Room         7856
+PkPdMkMd     0 0 270 0
 Weapons      81 0 0 102 0 0 0 0 0 0 0 0 0
 Spells       22 58 18 5 4
 Combat       0 0 0 0 0 0 0 0
@@ -45,7 +45,7 @@ Locationhp   64 0 0 0 0 0 0
 HpManaMove   9641135 9641135 9641135 9641135 9641135 9641135
 Agg          0
 Gold         9641135
-Exp          1266907997
+Exp          1268169398
 Act          67110000
 Extra        12
 More         0
@@ -118,7 +118,7 @@ Language     0 0
 Stage        0 0 0
 Status       0 0 0
 Wolfform     1 1
-Score        21864633 219570 0 51 0 0
+Score        23303168 219570 0 51 0 0
 Runes        0 0 0 0
 Disc         0 0 0 0 0 0 0 0 0 0 0
 Rituals      0 0 0 0 0 0 0 0 0 0
@@ -3665,6 +3665,207 @@ Timer        0
 Cost         22770
 Values       44 20 -1 -1
 Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         5566
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         spear long~
+ShortDescr   a long spear~
+Description  A strange spear lies here.~
+Vnum         8301
+ExtraFlags   640
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         7830
+Values       0 7 10 2
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         22560
+Values       11 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3240
+Values       0 8 11 3
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown~
+ShortDescr   a brown cloak~
+Description  A pile of brown cloth is on the floor.~
+Vnum         7803
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         220
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         180
+Values       0 5 7 3
+End
+
+#OBJECT
+Nest         0
+Name         chainmail chain mail~
+ShortDescr   elven chainmail~
+Description  A shiny metallic shirt is on the floor.~
+Vnum         7800
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2816
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        28
+Timer        0
+Cost         8410
+Values       15 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1960
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown~
+ShortDescr   a brown cloak~
+Description  A pile of brown cloth is on the floor.~
+Vnum         7803
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         3240
+Values       6 0 0 0
 End
 
 #END
