@@ -8,7 +8,7 @@ Clan         ~
 Side         ~
 Morph        ~
 Createtime   Tue Dec 12 15:34:39 2017~
-Lasttime     Fri Dec 15 15:58:51 2017~
+Lasttime     Mon Dec 18 10:24:11 2017~
 Lasthost     192.168.146.1~
 Poweraction  ~
 Powertype    ~
@@ -34,10 +34,10 @@ Level        12
 Security     9
 Trust        12
 Paradox      0 0 0
-Played       162556
-Room         7804
-PkPdMkMd     0 0 276 0
-Weapons      81 0 0 102 0 0 0 0 0 0 0 0 0
+Played       390756
+Room         2226
+PkPdMkMd     0 0 340 0
+Weapons      81 0 0 102 0 0 0 0 0 0 0 4 0
 Spells       22 58 18 5 4
 Combat       0 0 0 0 0 0 0 0
 Stance       -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
@@ -45,18 +45,18 @@ Locationhp   64 0 0 0 0 0 0
 HpManaMove   9641135 9641135 9641135 9641135 9641135 9641135
 Agg          0
 Gold         9641135
-Exp          1268455698
-Act          67110000
+Exp          1273397570
+Act          67118192
 Extra        12
 More         0
-AffectedBy   0
+AffectedBy   32896
 Position     9
 Practice     2702
 SavingThrow  -4
 Alignment    -1000
-Hitroll      8
-Damroll      8
-Armor        -70
+Hitroll      2
+Damroll      3
+Armor        -73
 Wimpy        0
 Deaf         0
 Boards       5 General 0 Ideas 0 Announce 0 Bugs 0 Personal 0 
@@ -118,7 +118,7 @@ Language     0 0
 Stage        0 0 0
 Status       0 0 0
 Wolfform     1 1
-Score        23589468 219570 0 51 0 0
+Score        29781046 219570 0 52 0 0
 Runes        0 0 0 0
 Disc         0 0 0 0 0 0 0 0 0 0 0
 Rituals      0 0 0 0 0 0 0 0 0 0
@@ -222,7 +222,7 @@ Description  A black shimmering bracer is lying here.~
 Vnum         30339
 ExtraFlags   2562
 WearFlags    4097
-WearLoc      15
+WearLoc      -1
 ItemType     9
 Weight       3
 Condition    75
@@ -242,7 +242,7 @@ Description  A black shimmering bracer is lying here.~
 Vnum         30339
 ExtraFlags   2562
 WearFlags    4097
-WearLoc      14
+WearLoc      -1
 ItemType     9
 Weight       3
 Condition    79
@@ -262,7 +262,7 @@ Description  A black shimmering collar is lying here.~
 Vnum         30343
 ExtraFlags   2562
 WearFlags    5
-WearLoc      4
+WearLoc      -1
 ItemType     9
 Weight       2
 Condition    100
@@ -282,7 +282,7 @@ Description  A black shimmering collar is lying here.~
 Vnum         30343
 ExtraFlags   2562
 WearFlags    5
-WearLoc      3
+WearLoc      -1
 ItemType     9
 Weight       2
 Condition    100
@@ -292,6 +292,226 @@ Level        1
 Timer        0
 Cost         18
 Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sleeves scale mail~
+ShortDescr   a pair of scale mail sleeves~
+Description  A pair of scale mail sleeves is lying on the ground.~
+Vnum         3077
+ExtraFlags   0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       8
+Condition    75
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1320
+Values       12 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves reinforced~
+ShortDescr   a pair of reinforced gloves~
+Description  A pair of reinforced gloves is lying on the ground.~
+Vnum         3076
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    75
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1331
+Values       11 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots reinforced~
+ShortDescr   a pair of reinforced boots~
+Description  A pair of reinforced boots lies here.~
+Vnum         3075
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       6
+Condition    75
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1521
+Values       7 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         coif scale mail~
+ShortDescr   a scale mail coif~
+Description  A scale mail coif is lying on the ground.~
+Vnum         3073
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         225
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         jerkin scale mail~
+ShortDescr   a scale mail jerkin~
+Description  A scale mail jerkin is lying on the ground.~
+Vnum         3072
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       20
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         200
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ball light~
+ShortDescr   a bright ball of light~
+Description  A bright ball of light shimmers in the air.~
+Vnum         21
+ExtraFlags   0
+WearFlags    1
+WearLoc      16
+ItemType     1
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         9
+Values       0 0 -1 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         4180
+Values       5 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         belt~
+ShortDescr   a standard issue belt~
+Description  You see a standard issue belt here.~
+Vnum         3362
+ExtraFlags   0
+WearFlags    2049
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        14
+Timer        0
+Cost         2310
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         ring signet~
+ShortDescr   a city guard signet ring~
+Description  You see a ring with a strange symbol on the floor.~
+Vnum         3364
+ExtraFlags   64
+WearFlags    3
+WearLoc      -1
+ItemType     9
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5184
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         cape~
+ShortDescr   a standard issue cape~
+Description  You see a standard issue cape here.~
+Vnum         3361
+ExtraFlags   0
+WearFlags    1025
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        25
+Timer        0
+Cost         6875
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         sword long~
+ShortDescr   a long sword~
+Description  A long sword has been left here.~
+Vnum         3022
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1716
+Values       0 8 16 3
 End
 
 #OBJECT
@@ -312,106 +532,6 @@ Level        11
 Timer        0
 Cost         1331
 Values       10 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         sleeves scale mail~
-ShortDescr   a pair of scale mail sleeves~
-Description  A pair of scale mail sleeves is lying on the ground.~
-Vnum         3077
-ExtraFlags   0
-WearFlags    257
-WearLoc      10
-ItemType     9
-Weight       8
-Condition    75
-Toughness    5
-Resistance   25
-Level        11
-Timer        0
-Cost         1320
-Values       12 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         gloves reinforced~
-ShortDescr   a pair of reinforced gloves~
-Description  A pair of reinforced gloves is lying on the ground.~
-Vnum         3076
-ExtraFlags   0
-WearFlags    129
-WearLoc      9
-ItemType     9
-Weight       2
-Condition    75
-Toughness    5
-Resistance   25
-Level        12
-Timer        0
-Cost         1331
-Values       11 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         boots reinforced~
-ShortDescr   a pair of reinforced boots~
-Description  A pair of reinforced boots lies here.~
-Vnum         3075
-ExtraFlags   0
-WearFlags    65
-WearLoc      8
-ItemType     9
-Weight       6
-Condition    75
-Toughness    5
-Resistance   25
-Level        13
-Timer        0
-Cost         1521
-Values       7 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         coif scale mail~
-ShortDescr   a scale mail coif~
-Description  A scale mail coif is lying on the ground.~
-Vnum         3073
-ExtraFlags   0
-WearFlags    17
-WearLoc      6
-ItemType     9
-Weight       4
-Condition    100
-Toughness    5
-Resistance   25
-Level        5
-Timer        0
-Cost         225
-Values       5 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         jerkin scale mail~
-ShortDescr   a scale mail jerkin~
-Description  A scale mail jerkin is lying on the ground.~
-Vnum         3072
-ExtraFlags   0
-WearFlags    9
-WearLoc      5
-ItemType     9
-Weight       20
-Condition    100
-Toughness    5
-Resistance   25
-Level        5
-Timer        0
-Cost         200
-Values       6 0 0 0
 End
 
 #OBJECT
@@ -452,26 +572,6 @@ Level        47
 Timer        0
 Cost         19872
 Values       5 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         ball light~
-ShortDescr   a bright ball of light~
-Description  A bright ball of light shimmers in the air.~
-Vnum         21
-ExtraFlags   0
-WearFlags    1
-WearLoc      16
-ItemType     1
-Weight       1
-Condition    100
-Toughness    5
-Resistance   25
-Level        0
-Timer        0
-Cost         9
-Values       0 0 -1 0
 End
 
 #OBJECT
@@ -632,26 +732,6 @@ Level        47
 Timer        0
 Cost         22560
 Values       11 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         sword long~
-ShortDescr   a long sword~
-Description  A long sword has been left here.~
-Vnum         3022
-ExtraFlags   0
-WearFlags    8193
-WearLoc      17
-ItemType     5
-Weight       8
-Condition    100
-Toughness    5
-Resistance   25
-Level        13
-Timer        0
-Cost         1716
-Values       0 8 16 3
 End
 
 #OBJECT
@@ -942,7 +1022,7 @@ Description  You see a standard issue bracer here.~
 Vnum         3363
 ExtraFlags   0
 WearFlags    4097
-WearLoc      -1
+WearLoc      15
 ItemType     9
 Weight       5
 Condition    100
@@ -1822,7 +1902,7 @@ Description  You see a standard issue bracer here.~
 Vnum         3363
 ExtraFlags   0
 WearFlags    4097
-WearLoc      -1
+WearLoc      14
 ItemType     9
 Weight       5
 Condition    100
@@ -2701,26 +2781,6 @@ End
 
 #OBJECT
 Nest         0
-Name         ring signet~
-ShortDescr   a city guard signet ring~
-Description  You see a ring with a strange symbol on the floor.~
-Vnum         3364
-ExtraFlags   64
-WearFlags    3
-WearLoc      2
-ItemType     9
-Weight       1
-Condition    100
-Toughness    5
-Resistance   25
-Level        19
-Timer        0
-Cost         4180
-Values       5 0 0 0
-End
-
-#OBJECT
-Nest         0
 Name         sword~
 ShortDescr   a standard issue sword~
 Description  You see a standard issue sword here.~
@@ -2761,26 +2821,6 @@ End
 
 #OBJECT
 Nest         0
-Name         belt~
-ShortDescr   a standard issue belt~
-Description  You see a standard issue belt here.~
-Vnum         3362
-ExtraFlags   0
-WearFlags    2049
-WearLoc      13
-ItemType     9
-Weight       5
-Condition    100
-Toughness    5
-Resistance   25
-Level        14
-Timer        0
-Cost         2310
-Values       10 0 0 0
-End
-
-#OBJECT
-Nest         0
 Name         banner~
 ShortDescr   a war banner~
 Description  A war banner is on the floor here.~
@@ -2797,26 +2837,6 @@ Level        33
 Timer        0
 Cost         10240
 Values       0 0 -1 0
-End
-
-#OBJECT
-Nest         0
-Name         ring signet~
-ShortDescr   a city guard signet ring~
-Description  You see a ring with a strange symbol on the floor.~
-Vnum         3364
-ExtraFlags   64
-WearFlags    3
-WearLoc      1
-ItemType     9
-Weight       1
-Condition    100
-Toughness    5
-Resistance   25
-Level        24
-Timer        0
-Cost         5184
-Values       14 0 0 0
 End
 
 #OBJECT
@@ -2857,26 +2877,6 @@ Level        38
 Timer        0
 Cost         14440
 Values       15 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         cape~
-ShortDescr   a standard issue cape~
-Description  You see a standard issue cape here.~
-Vnum         3361
-ExtraFlags   0
-WearFlags    1025
-WearLoc      12
-ItemType     9
-Weight       5
-Condition    100
-Toughness    5
-Resistance   25
-Level        25
-Timer        0
-Cost         6875
-Values       8 0 0 0
 End
 
 #OBJECT
@@ -3287,7 +3287,7 @@ Description  You see a standard issue helmet here.~
 Vnum         3356
 ExtraFlags   0
 WearFlags    17
-WearLoc      -1
+WearLoc      6
 ItemType     9
 Weight       5
 Condition    100
@@ -3429,7 +3429,7 @@ Description  You see a standard issue belt here.~
 Vnum         3362
 ExtraFlags   0
 WearFlags    2049
-WearLoc      -1
+WearLoc      13
 ItemType     9
 Weight       5
 Condition    100
@@ -3469,7 +3469,7 @@ Description  You see a ring with a strange symbol on the floor.~
 Vnum         3364
 ExtraFlags   64
 WearFlags    3
-WearLoc      -1
+WearLoc      1
 ItemType     9
 Weight       1
 Condition    100
@@ -3529,7 +3529,7 @@ Description  You see a standard issue cape here.~
 Vnum         3361
 ExtraFlags   0
 WearFlags    1025
-WearLoc      -1
+WearLoc      12
 ItemType     9
 Weight       5
 Condition    100
@@ -3730,26 +3730,6 @@ End
 
 #OBJECT
 Nest         0
-Name         longsword sword long~
-ShortDescr   an elven longsword~
-Description  A shiny blade is on the floor.~
-Vnum         7802
-ExtraFlags   64
-WearFlags    8193
-WearLoc      -1
-ItemType     5
-Weight       3
-Condition    100
-Toughness    5
-Resistance   25
-Level        19
-Timer        0
-Cost         3240
-Values       0 8 11 3
-End
-
-#OBJECT
-Nest         0
 Name         cloak brown~
 ShortDescr   a brown cloak~
 Description  A pile of brown cloth is on the floor.~
@@ -3766,26 +3746,6 @@ Level        5
 Timer        0
 Cost         220
 Values       12 0 0 0
-End
-
-#OBJECT
-Nest         0
-Name         longsword sword long~
-ShortDescr   an elven longsword~
-Description  A shiny blade is on the floor.~
-Vnum         7802
-ExtraFlags   64
-WearFlags    8193
-WearLoc      -1
-ItemType     5
-Weight       3
-Condition    100
-Toughness    5
-Resistance   25
-Level        5
-Timer        0
-Cost         180
-Values       0 5 7 3
 End
 
 #OBJECT
@@ -3830,26 +3790,6 @@ End
 
 #OBJECT
 Nest         0
-Name         longsword sword long~
-ShortDescr   an elven longsword~
-Description  A shiny blade is on the floor.~
-Vnum         7802
-ExtraFlags   64
-WearFlags    8193
-WearLoc      -1
-ItemType     5
-Weight       3
-Condition    100
-Toughness    5
-Resistance   25
-Level        13
-Timer        0
-Cost         1960
-Values       0 1 2 3
-End
-
-#OBJECT
-Nest         0
 Name         cloak brown~
 ShortDescr   a brown cloak~
 Description  A pile of brown cloth is on the floor.~
@@ -3870,26 +3810,6 @@ End
 
 #OBJECT
 Nest         0
-Name         longsword sword long~
-ShortDescr   an elven longsword~
-Description  A shiny blade is on the floor.~
-Vnum         7802
-ExtraFlags   64
-WearFlags    8193
-WearLoc      -1
-ItemType     5
-Weight       3
-Condition    100
-Toughness    5
-Resistance   25
-Level        18
-Timer        0
-Cost         3564
-Values       0 5 10 3
-End
-
-#OBJECT
-Nest         0
 Name         boots~
 ShortDescr   elven boots~
 Description  Some soft boots are on the floor.~
@@ -3906,26 +3826,6 @@ Level        49
 Timer        0
 Cost         25872
 Values       8 0 0 9
-End
-
-#OBJECT
-Nest         0
-Name         longsword sword long~
-ShortDescr   an elven longsword~
-Description  A shiny blade is on the floor.~
-Vnum         7802
-ExtraFlags   64
-WearFlags    8193
-WearLoc      -1
-ItemType     5
-Weight       3
-Condition    100
-Toughness    5
-Resistance   25
-Level        27
-Timer        0
-Cost         8019
-Values       0 2 3 3
 End
 
 #OBJECT
@@ -3966,6 +3866,1261 @@ Level        3
 Timer        0
 Cost         88
 Values       2 2 13 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         4968
+Values       13 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown~
+ShortDescr   a brown cloak~
+Description  A pile of brown cloth is on the floor.~
+Vnum         7803
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         15876
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         18490
+Values       9 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown~
+ShortDescr   a brown cloak~
+Description  A pile of brown cloth is on the floor.~
+Vnum         7803
+ExtraFlags   64
+WearFlags    5
+WearLoc      4
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         24010
+Values       14 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         axe blade~
+ShortDescr   an executioner's axe~
+Description  An executioner's axe is here waiting to possess its next user.~
+Vnum         3005
+ExtraFlags   3072
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       30
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         15990
+Values       57030 3 5 1
+End
+
+#OBJECT
+Nest         0
+Name         axe lumber~
+ShortDescr   a lumber axe~
+Description  A heavy lumber axe lies here.~
+Vnum         6000
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         7436
+Values       0 7 13 1
+End
+
+#OBJECT
+Nest         0
+Name         shirt~
+ShortDescr   a chequered shirt~
+Description  A chequered shirt lies here.~
+Vnum         6001
+ExtraFlags   0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        40
+Timer        0
+Cost         16810
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         morning-star star morning~
+ShortDescr   the morning star~
+Description  The morning star is here collecting dust while it lies on the ground.~
+Vnum         6155
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       10
+Condition    100
+Toughness    5
+Resistance   25
+Level        43
+Timer        0
+Cost         16254
+Values       0 6 8 8
+End
+
+#OBJECT
+Nest         0
+Name         water barrel~
+ShortDescr   the barrel~
+Description  A water barrel has been left here.~
+Vnum         6013
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     17
+Weight       65
+Condition    100
+Toughness    5
+Resistance   25
+Level        47
+Timer        0
+Cost         0
+Values       50 50 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chest~
+ShortDescr   a wooden chest~
+Description  A wooden chest stands in the corner.~
+Vnum         6005
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     15
+Weight       40
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         0
+Values       100 13 6006 0
+End
+
+#OBJECT
+Nest         1
+Name         coins gold~
+ShortDescr   a heap of gold coins~
+Description  Some gold coins lie piled up in a heap on the floor.~
+Vnum         6007
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     20
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        10
+Timer        0
+Cost         1210
+Values       1210 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         chainmail chain mail~
+ShortDescr   elven chainmail~
+Description  A shiny metallic shirt is on the floor.~
+Vnum         7800
+ExtraFlags   0
+WearFlags    9
+WearLoc      5
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         11220
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   elven boots~
+Description  Some soft boots are on the floor.~
+Vnum         7801
+ExtraFlags   0
+WearFlags    65
+WearLoc      8
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         25344
+Values       14 0 0 9
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        7
+Timer        0
+Cost         640
+Values       0 9 16 3
+End
+
+#OBJECT
+Nest         0
+Name         cloak brown~
+ShortDescr   a brown cloak~
+Description  A pile of brown cloth is on the floor.~
+Vnum         7803
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         160
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        42
+Timer        0
+Cost         17220
+Values       44 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        9
+Timer        0
+Cost         880
+Values       42 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1210
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         12250
+Values       43 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         green potion~
+ShortDescr   a murky green potion~
+Description  A murky green potion lies here in the mud.~
+Vnum         8307
+ExtraFlags   3
+WearFlags    1
+WearLoc      -1
+ItemType     10
+Weight       1
+Condition    100
+Toughness    5
+Resistance   25
+Level        35
+Timer        0
+Cost         12250
+Values       44 20 -1 -1
+Spell 1      'cure critical'
+End
+
+#OBJECT
+Nest         0
+Name         protoplasm plasm ball~
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Faein~
+Vnum         30037
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     22
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         protoplasm plasm ball~
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Faein~
+Vnum         30037
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         protoplasm plasm ball~
+ShortDescr   a ball of protoplasm~
+Description  A ball of protoplasm floats in the air.~
+Questmaker   Faein~
+Vnum         30037
+ExtraFlags   0
+WearFlags    1
+WearLoc      -1
+ItemType     13
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        0
+Timer        0
+Cost         11
+Values       0 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         90
+Values       0 4 5 11
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        1
+Timer        0
+Cost         9
+Values       0 4 6 11
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         270
+Values       0 7 13 11
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         10571
+Values       0 8 9 11
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        36
+Timer        0
+Cost         12950
+Values       0 6 8 11
+End
+
+#OBJECT
+Nest         0
+Name         spear jagged~
+ShortDescr   a jagged spear~
+Description  A jagged spear has been left here.~
+Vnum         2200
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        38
+Timer        0
+Cost         12987
+Values       0 6 7 11
+End
+
+#OBJECT
+Nest         0
+Name         wand golden~
+ShortDescr   a golden wand~
+Description  A golden wand has been dropped here.~
+Vnum         2243
+ExtraFlags   1
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        3
+Timer        0
+Cost         88
+Values       24 9 9 31
+Spell 3      'dispel magic'
+End
+
+#OBJECT
+Nest         0
+Name         club stone~
+ShortDescr   a stone club~
+Description  A heavy looking stone club is here.~
+Vnum         2223
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       18
+Condition    100
+Toughness    5
+Resistance   25
+Level        22
+Timer        0
+Cost         4158
+Values       0 5 9 8
+End
+
+#OBJECT
+Nest         0
+Name         staff silver~
+ShortDescr   a silver staff~
+Description  A silver staff.~
+Vnum         2244
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         990
+Values       25 20 20 36
+Spell 3      'faerie fog'
+End
+
+#OBJECT
+Nest         0
+Name         wand golden~
+ShortDescr   a golden wand~
+Description  A golden wand has been dropped here.~
+Vnum         2243
+ExtraFlags   1
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3420
+Values       25 11 11 31
+Spell 3      'dispel magic'
+End
+
+#OBJECT
+Nest         0
+Name         club stone~
+ShortDescr   a stone club~
+Description  A heavy looking stone club is here.~
+Vnum         2223
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       18
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         8990
+Values       0 4 5 8
+End
+
+#OBJECT
+Nest         0
+Name         staff silver~
+ShortDescr   a silver staff~
+Description  A silver staff.~
+Vnum         2244
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         8700
+Values       24 20 20 36
+Spell 3      'faerie fog'
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        27
+Timer        0
+Cost         8019
+Values       0 2 3 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        18
+Timer        0
+Cost         3564
+Values       0 5 10 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        19
+Timer        0
+Cost         3240
+Values       0 8 11 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1960
+Values       0 1 2 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1320
+Values       0 9 18 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         720
+Values       0 8 10 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        5
+Timer        0
+Cost         180
+Values       0 5 7 3
+End
+
+#OBJECT
+Nest         0
+Name         longsword sword long~
+ShortDescr   an elven longsword~
+Description  A shiny blade is on the floor.~
+Vnum         7802
+ExtraFlags   64
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       3
+Condition    100
+Toughness    5
+Resistance   25
+Level        2
+Timer        0
+Cost         22
+Values       0 8 10 3
+End
+
+#OBJECT
+Nest         0
+Name         knife tooth dragon~
+ShortDescr   a dragon's tooth knife~
+Description  A dangerous looking knife made from a dragon's tooth has been left here.~
+Vnum         2202
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         360
+Values       68 8 12 11
+End
+
+#OBJECT
+Nest         0
+Name         sleeves dragon scale~
+ShortDescr   a set of dragon scale sleeves~
+Description  A set of dragon scale sleeves is lying on the ground.~
+Vnum         2281
+ExtraFlags   0
+WearFlags    257
+WearLoc      10
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6760
+Values       15 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves dragon~
+ShortDescr   a pair of dragon skin gloves~
+Description  A pair of dragon skin gloves are lying on the ground.~
+Vnum         2271
+ExtraFlags   0
+WearFlags    129
+WearLoc      9
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        6
+Timer        0
+Cost         385
+Values       13 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         knife tooth dragon~
+ShortDescr   a dragon's tooth knife~
+Description  A dangerous looking knife made from a dragon's tooth has been left here.~
+Vnum         2202
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        30
+Timer        0
+Cost         7830
+Values       68 2 4 11
+End
+
+#OBJECT
+Nest         0
+Name         sleeves dragon scale~
+ShortDescr   a set of dragon scale sleeves~
+Description  A set of dragon scale sleeves is lying on the ground.~
+Vnum         2281
+ExtraFlags   0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        11
+Timer        0
+Cost         1089
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves dragon~
+ShortDescr   a pair of dragon skin gloves~
+Description  A pair of dragon skin gloves are lying on the ground.~
+Vnum         2271
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        32
+Timer        0
+Cost         9504
+Values       8 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         boots~
+ShortDescr   a pair of leather boots~
+Description  A pair of leather boots lies here.~
+Vnum         6002
+ExtraFlags   0
+WearFlags    65
+WearLoc      -1
+ItemType     9
+Weight       4
+Condition    100
+Toughness    5
+Resistance   25
+Level        50
+Timer        0
+Cost         24500
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         whip dragon tail~
+ShortDescr   a dragon tailed whip~
+Description  A dragon tailed whip is lying on the ground.~
+Vnum         2285
+ExtraFlags   514
+WearFlags    8193
+WearLoc      17
+ItemType     5
+Weight       14
+Condition    100
+Toughness    5
+Resistance   25
+Level        24
+Timer        0
+Cost         5290
+Values       0 10 16 4
+End
+
+#OBJECT
+Nest         0
+Name         brooch diamond~
+ShortDescr   a diamond brooch~
+Description  A diamond brooch.~
+Vnum         2261
+ExtraFlags   64
+WearFlags    5
+WearLoc      -1
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        8
+Timer        0
+Cost         630
+Values       5 0 0 57
+End
+
+#OBJECT
+Nest         0
+Name         helm dragon~
+ShortDescr   a helm of dragon kind~
+Description  A helm made of a dragon's skull is lying on the ground.~
+Vnum         2275
+ExtraFlags   0
+WearFlags    17
+WearLoc      -1
+ItemType     9
+Weight       15
+Condition    100
+Toughness    5
+Resistance   25
+Level        12
+Timer        0
+Cost         1690
+Values       6 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         staff dragon~
+ShortDescr   the staff of the dragon~
+Description  A powerful oak staff has been left here.~
+Vnum         2245
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        49
+Timer        0
+Cost         24500
+Values       25 10 10 6
+Spell 3      'call lightning'
+End
+
+#OBJECT
+Nest         0
+Name         whip dragon tail~
+ShortDescr   a dragon tailed whip~
+Description  A dragon tailed whip is lying on the ground.~
+Vnum         2285
+ExtraFlags   514
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       14
+Condition    100
+Toughness    5
+Resistance   25
+Level        26
+Timer        0
+Cost         6760
+Values       0 9 12 4
+End
+
+#OBJECT
+Nest         0
+Name         brooch diamond~
+ShortDescr   a diamond brooch~
+Description  A diamond brooch.~
+Vnum         2261
+ExtraFlags   64
+WearFlags    5
+WearLoc      3
+ItemType     9
+Weight       2
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         23030
+Values       8 0 0 57
+End
+
+#OBJECT
+Nest         0
+Name         knife tooth dragon~
+ShortDescr   a dragon's tooth knife~
+Description  A dangerous looking knife made from a dragon's tooth has been left here.~
+Vnum         2202
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       8
+Condition    100
+Toughness    5
+Resistance   25
+Level        29
+Timer        0
+Cost         8624
+Values       68 5 9 11
+End
+
+#OBJECT
+Nest         0
+Name         sleeves dragon scale~
+ShortDescr   a set of dragon scale sleeves~
+Description  A set of dragon scale sleeves is lying on the ground.~
+Vnum         2281
+ExtraFlags   0
+WearFlags    257
+WearLoc      -1
+ItemType     9
+Weight       12
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         12342
+Values       9 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         gloves dragon~
+ShortDescr   a pair of dragon skin gloves~
+Description  A pair of dragon skin gloves are lying on the ground.~
+Vnum         2271
+ExtraFlags   0
+WearFlags    129
+WearLoc      -1
+ItemType     9
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        44
+Timer        0
+Cost         18490
+Values       10 0 0 0
+End
+
+#OBJECT
+Nest         0
+Name         wand golden~
+ShortDescr   a golden wand~
+Description  A golden wand has been dropped here.~
+Vnum         2243
+ExtraFlags   1
+WearFlags    16385
+WearLoc      -1
+ItemType     3
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        15
+Timer        0
+Cost         2100
+Values       26 11 11 31
+Spell 3      'dispel magic'
+End
+
+#OBJECT
+Nest         0
+Name         club stone~
+ShortDescr   a stone club~
+Description  A heavy looking stone club is here.~
+Vnum         2223
+ExtraFlags   0
+WearFlags    8193
+WearLoc      -1
+ItemType     5
+Weight       18
+Condition    100
+Toughness    5
+Resistance   25
+Level        34
+Timer        0
+Cost         9801
+Values       0 10 13 8
+End
+
+#OBJECT
+Nest         0
+Name         staff silver~
+ShortDescr   a silver staff~
+Description  A silver staff.~
+Vnum         2244
+ExtraFlags   65
+WearFlags    16385
+WearLoc      -1
+ItemType     4
+Weight       5
+Condition    100
+Toughness    5
+Resistance   25
+Level        48
+Timer        0
+Cost         24816
+Values       26 20 20 36
+Spell 3      'faerie fog'
 End
 
 #END
